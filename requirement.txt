@@ -3,3 +3,4 @@ pandas
 pygeohash
 lightgbm
 pydantic
+numpy
